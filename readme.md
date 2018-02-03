@@ -4,8 +4,8 @@ this is a database project for managing people contacts information using single
 
 included options:
 
-*Add
-*Delete
-*Modify
-*Search
-*Show all 
+* Add
+* Delete
+* Modify
+* Search
+* Show all 
